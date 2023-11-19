@@ -1,6 +1,5 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -16,14 +15,17 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![image](https://github.com/MukeshVelmurugan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118707363/a1d1a1aa-6718-4b68-88e3-d76fd145d31d)
+![image](https://github.com/MukeshVelmurugan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118707363/6dd173d5-7f34-4ddb-8e3e-58c361e9a4e4)
+![image](https://github.com/MukeshVelmurugan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118707363/275c4bea-9c66-466c-8362-11435c0898d6)
+
+
 
 ## Output:
+![image](https://github.com/SAKTHISWAR/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/blob/main/7.png)
 
-### Name:
-### Register Number:
+### Name: MAHESH RAJ PUROHIT
+### Register Number: 212222240058
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
