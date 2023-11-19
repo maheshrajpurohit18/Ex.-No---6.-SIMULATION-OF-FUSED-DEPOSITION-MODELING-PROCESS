@@ -22,8 +22,7 @@
 
 
 ## Output:
-![image](https://github.com/SAKTHISWAR/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/blob/main/7.png)
-
+![6](https://github.com/sivaram-R/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/121165794/fcbb93e8-c44b-4291-8084-93a8fbd86349)
 ### Name: MAHESH RAJ PUROHIT
 ### Register Number: 212222240058
 
